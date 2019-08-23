@@ -1,0 +1,218 @@
+Looking for git in: git
+Using git 1.9.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/node/hello-react
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: No upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: No upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: No upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: No upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: No upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git ls-files --stage -- src/childs/
+> git show :src/App.js
+> git show :src/index.js
+> git show :src/App.js
+> git show :src/index.js
+> git show :src/App.js
+> git show :src/index.js
+> git show :src/App.test.js
+> git show :src/App.js
+> git show :src/App.test.js
+> git show :src/App.js
+> git show :src/childs/Custom.js
+> git show :src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git check-ignore -v -z --stdin
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Form.js
+> git ls-files --stage -- src/components/
+> git show :src/index.css
+> git check-ignore -v -z --stdin
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Select.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Select.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Text.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Select.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Text.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Select.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Select.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Text.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/App.js
+> git show :src/components/form-child/Textarea.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Number.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Text.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/form-child/Textarea.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/Custom.js
+> git ls-files --stage -- src/components/
+> git show :src/components/form-child/Textarea.js
+> git ls-files --stage -- src/components/form-child/
+> git show :src/components/NameForm.js
+> git ls-files --stage -- src/components/
